@@ -1,3 +1,6 @@
+## 📌 Description
+A Python-based CLI trading bot that interacts with Binance Futures Testnet to place MARKET and LIMIT orders with logging and error handling.
+
 # Trading Bot (Binance Testnet)
 
 ## Features
